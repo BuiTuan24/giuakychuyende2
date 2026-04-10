@@ -125,7 +125,7 @@ class _AddEditTaskScreenState extends State<AddEditTaskScreen> {
       body: Container(
         decoration: const BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('assets/images/anh2.jpg'),
+            image: AssetImage(''),
             fit: BoxFit.contain,
             alignment: Alignment.center,
             opacity: 0.9,
